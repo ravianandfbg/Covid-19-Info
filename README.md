@@ -1,0 +1,4 @@
+# Covid-19-Info
+In this project i have worked with Web Scrapping and Puppeteer in Node js. I have made a project related to COVID-19.
+As we know we are going through a very bad time today. This pandemic has taken away our very close ones from us. Many of these people lost their lives without Oxygen , some died waiting for an ambulance, some due to no beds available in hospitals. And many of us don't know many things about coronavirus like, preventions, symptoms, and many things. So I have made this project related all these things.
+This project fetches all the informations related to Coronavirus which is required to prevent us from this pandemic like symptoms, preventions, covid cases, latest news, treatments, all about vaccination, verified contacts for all those people who has actually needed like oxygen cylinder, Food supply, Online Consultation. Hospital beds, Quarantine centres, Ambulance services and many more.
