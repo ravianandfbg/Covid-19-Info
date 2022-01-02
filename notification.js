@@ -3,7 +3,7 @@ let fs = require("fs");
 async function gmailsend(email) {
   try {
     myEmail = "ravianandfbg@gmail.com";
-    pwd = ".ravi.anand.@2001";
+   // pwd = "xyz";
     // pwd = fs.readFileSync("../password.txt", "utf-8");
     let transport = nodemailer.createTransport({
       host: "smtp.gmail.com",
